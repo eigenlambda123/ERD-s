@@ -10,22 +10,9 @@ This project is part of my **Project10X** learning series, where I master backen
 - Internalize core concepts like 1:N, M:N relationships, normalization, and database constraints.
 - Build a library of schema blueprints to use across backend projects.
 
-## 📁 Structure
-
-Each ERD includes:
-- `diagram/`: Hand-drawn or digitally created ERD diagrams (PNG or SVG).
-- `schema/`: Optional SQL or Django model equivalents (when applicable).
-- `notes.md`: Key decisions and relationship explanations per system.
-
 ## Why This Exists
 
 In backend development, strong data modeling is foundational. This repo is my way of deeply mastering the **"data layer"** before writing a single line of code. I revisit these diagrams while building APIs, writing serializers, and designing query logic.
-
-## Related Projects
-
-- [Project10X – Backend Builder Series](https://github.com/eigenlambda123/Project10X)
-- [10x Linear](https://github.com/eigenlambda123/10x-linear) – Linear Algebra mastery through project-driven learning
-- [10x Stats](https://github.com/eigenlambda123/10x-stats) – Statistics concepts through structured project work
 
 ## Tools
 
